@@ -10,11 +10,11 @@ A Python 3 and Keras 2 implementation of MSCNN for people countingand provide tr
 ## MSCNN and MSB architectures
 **MSCNN**  
 
-![MSCNN](/images/mscnn.png)
+![MSCNN](https://github.com/xiaochus/MSCNN/tree/master/images/mscnn.png)
 
 **MSB**  
 
-![MSB](/images/msb.png)
+![MSB](https://github.com/xiaochus/MSCNN/tree/master//images/msb.png)
 
 ## Experiment
 
